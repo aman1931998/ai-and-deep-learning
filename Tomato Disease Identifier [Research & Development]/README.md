@@ -15,8 +15,8 @@ The model is created using Tensorpack built upon TensorFlow library. The dataset
 ## Dataset
 The dataset used for this model was initially self-annotated using [LabelImg](https://pypi.org/project/labelImg/1.4.0/). It consists of 5 labels with a total of 2500 images. With augmentation, the dataset size was increased to 11618 images with 45k-ish annotations.
 Links for dataset: 
-- [COCO formatted/ready]()
-- [Raw data]()
+- [COCO formatted/ready](https://drive.google.com/open?id=1CRHe0oHRF1eC0O-ke3qgeq-KfJcZBL_F)
+- [Raw data](https://drive.google.com/open?id=1ho5nsq0xd10uR08vJtJ9tkUX4Eau_dQ8)
 ## Dependencies
 + OpenCV, TensorFlow ≥ 1.6 [conda install]
 + SciPy, Cython [pip install]
@@ -52,7 +52,7 @@ This is a minimal implementation that simply contains these files:
 
 ### Training: 
 - Downlaod the dataset using provided link above.
-- You can either continue training from [trained weights](drive.google.com) or start fresh with [ImageNet](http://models.tensorpack.com/FasterRCNN/ImageNet-R101-AlignPadding.npz) weights.
+- You can either continue training from [trained weights](https://drive.google.com/open?id=1CbJ29l37li2PALJez_91aLP0cfxrfvRD) or start fresh with [ImageNet](http://models.tensorpack.com/FasterRCNN/ImageNet-R101-AlignPadding.npz) weights.
 - Place the dataset contents in "coco_format_dataset" folder. 
 - Modifications in "config.py":
 -DATA.NUM_WORKERS: This value defines the number of pre-processing threads to generate. 
