@@ -2,6 +2,7 @@
 # Leaf Detector using Deep Learning
 
 The leaf detector model is created using Tensorpack built upon TensorFlow library. The dataset for this project is manually annotated.
+
 <img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Leaf%20Detector%20%5BResearch%20%26%20Development%5D/model_outputs.png">
 
 ## Model
