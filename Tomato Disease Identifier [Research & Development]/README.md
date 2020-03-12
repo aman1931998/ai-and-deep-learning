@@ -3,7 +3,7 @@
 
 The model is created using Tensorpack built upon TensorFlow library. The dataset for this project is manually annotated.
 
-![Leaf Output](https://raw.githubusercontent.com/aman1931998/data-science-and-machine-learning/master/Tomato Disease Identifier [Research & Development]/disease_tomato.png)
+![Leaf Output](https://github.com/aman1931998/ai-and-deep-learning/blob/master/Tomato%20Disease%20Identifier%20%5BResearch%20&%20Development%5D/disease_tomato.png?raw=true)
 
 ## Features
 
