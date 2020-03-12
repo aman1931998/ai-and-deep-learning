@@ -70,7 +70,7 @@ This is a minimal implementation that simply contains these files:
 - Run the following command in the terminal:
 ```
 ./train.py --config \
-    BACKBONE.WEIGHTS=/path/to/ImageNet-R50-AlignPadding.npz \
+    BACKBONE.WEIGHTS=/path/to/ImageNet-R101-AlignPadding.npz \
     DATA.BASEDIR=/path/to/COCO/DIR \
     [OTHER-ARCHITECTURE-SETTINGS]
 ```
