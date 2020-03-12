@@ -2,11 +2,10 @@
 # Leaf Detector using Deep Learning
 
 The leaf detector model is created using Tensorpack built upon TensorFlow library. The dataset for this project is manually annotated.
-.fit {
-  max-width: 99%;
-  max-height: 99%;
-}
 <img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Leaf%20Detector%20%5BResearch%20%26%20Development%5D/model_outputs.png">
+
+## Model
+The model used for this project is Mask R-CNN model with Resnet 101 backend neural network. 
 
 ## Features
 
@@ -23,7 +22,7 @@ The dataset used for this model was initially self-annotated using [LabelImg](ht
 With augmentation, the dataset size was increased to 11768 images with 40k annotations.
 Links for dataset: 
 - [COCO formatted/ready]()
-- [Raw data]()
+- [Raw data](https://drive.google.com/open?id=1pTZnbBiSbYZmZb_QPL5xx6Eau_e_mPcW)
 ## Dependencies
 + OpenCV, TensorFlow ≥ 1.6 [conda install]
 + SciPy, Cython [pip install]
@@ -59,7 +58,7 @@ This is a minimal implementation that simply contains these files:
 
 ### Training: 
 - Downlaod the dataset using provided link above.
-- You can either continue training from [trained weights](drive.google.com) or start fresh with [ImageNet](http://models.tensorpack.com/FasterRCNN/ImageNet-R101-AlignPadding.npz) weights.
+- You can either continue training from [trained weights](https://drive.google.com/open?id=1FBD9hnooE6GiYqDMpwQ1SdAVneF3ZNh_) or start fresh with [ImageNet](http://models.tensorpack.com/FasterRCNN/ImageNet-R101-AlignPadding.npz) weights.
 - Place the dataset contents in "coco_format_dataset" folder. 
 - Modifications in "config.py":
 -DATA.NUM_WORKERS: This value defines the number of pre-processing threads to generate. 
