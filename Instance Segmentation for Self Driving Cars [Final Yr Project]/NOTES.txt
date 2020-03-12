@@ -1,0 +1,5 @@
+instances = true -> definately polygon irrespective of what "polygons" length is.
+
+instances = False -> rle?
+
+if s
