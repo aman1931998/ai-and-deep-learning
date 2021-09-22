@@ -1,4 +1,5 @@
-Predict The Flight Ticket Price Hackathon
+
+Who Let The Dogs Out - Pets Breed Classification Hackathon
 
 FINAL Score: Not Evaluated
 
