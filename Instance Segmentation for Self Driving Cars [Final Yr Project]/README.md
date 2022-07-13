@@ -2,6 +2,10 @@
 This example provides a minimal (2k lines) and faithful implementation of the
 following object detection / instance segmentation papers:
 
+<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars%20%5BFinal%20Yr%20Project%5D/55_merged.png">
+
+<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars%20%5BFinal%20Yr%20Project%5D/8_merged.png">
+
 + [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 + [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144)
 + [Mask R-CNN](https://arxiv.org/abs/1703.06870)
