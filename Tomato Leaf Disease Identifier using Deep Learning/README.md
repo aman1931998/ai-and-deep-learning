@@ -1,7 +1,9 @@
 
 # Tomato Leaf Disease Identifier using Deep Learning
 
-The model is created using Tensorpack built upon TensorFlow library. The dataset for this project is manually annotated.
+The model is created using Tensorpack built upon TensorFlow library. The dataset for this project is manually annotated.<br>
+
+[Notebook](https://github.com/aman1931998/ai-and-deep-learning/blob/master/Tomato%20Leaf%20Disease%20Identifier%20using%20Deep%20Learning/Tomato_Disease.ipynb)
 
 ![Leaf Output](https://github.com/aman1931998/ai-and-deep-learning/blob/master/Tomato%20Disease%20Identifier%20%5BResearch%20&%20Development%5D/disease_tomato.png?raw=true)
 
