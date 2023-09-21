@@ -2,9 +2,9 @@
 This example provides a minimal (2k lines) and faithful implementation of the
 following object detection / instance segmentation papers:
 
-<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars%20%5BFinal%20Yr%20Project%5D/55_merged.png">
+<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars/55_merged.png">
 
-<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars%20%5BFinal%20Yr%20Project%5D/8_merged.png">
+<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars/8_merged.png">
 
 + [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 + [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144)
@@ -18,6 +18,12 @@ with the support of:
 + Training from scratch (from [Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883))
 
 This is likely the best-performing open source TensorFlow reimplementation of the above papers.
+
+## Live Demo
+
+I shot a video around my house for live demo. [Refer this link](http://aman-agarwal.in/documents/Instance_Segmentation_for_Self_Driving_Cars.mp4) or below.
+
+<img class="fit" src="https://raw.githubusercontent.com/aman1931998/ai-and-deep-learning/master/Instance%20Segmentation%20for%20Self%20Driving%20Cars/output2.mp4">
 
 ## Dependencies
 + OpenCV, TensorFlow ≥ 1.6
